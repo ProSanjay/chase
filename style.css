@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.white{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border:2px solid black;
+    box-sizing: border-box;
+    margin: -2px;
+
+    
+}
+.black{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    background-color: black;
+  margin: -2px;  
+}
